@@ -1,4 +1,5 @@
 # Employee Management System
+<img src="https://github.com/user-attachments/assets/b111db22-2f1f-4cef-b3c8-615e8770ea79" alt="image" width="300"/>
 using the 4 principle of the object oriented programming i have simply written a code its help you to grabs the the concept easily
 Employee Management System
 
