@@ -41,6 +41,8 @@ SkillsSet: List of skills.
 Methods:
 talent(): Displays the employee’s skill set.
 work(): Overrides the base work() method to reflect the employee's proficiency in their skills.
-#OUTPUT OF THE CODE:
+   
+   
+  OUTPUT OF THE CODE:
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/d8082b6d-909c-41ae-b87f-5d674dcc525a">
 
